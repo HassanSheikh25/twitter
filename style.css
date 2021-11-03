@@ -1,0 +1,35 @@
+.aset{
+    display: flex;
+    font-size: 25px;
+    color: black;
+}
+.aset:hover{
+    text-decoration: none;
+    color: black;
+    background-color: #E7E7E8;
+}
+.logoSet{
+    width: 50px;
+    height: 50px;
+}
+.setButton{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 20px;
+    border-radius: 50px;
+}
+.imgset{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.imgset2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+#search{
+    background-color:#F7F9F9;
+}
