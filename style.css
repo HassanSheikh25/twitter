@@ -30,6 +30,15 @@
     height: 60px;
     border-radius: 50%;
 }
+.imgset3{
+    width: 30px;
+    height: 30px;
+}
 #search{
     background-color:#F7F9F9;
+}
+@media screen and (max-width: 576px) {
+    .hide{
+        display: none;
+    }
 }
