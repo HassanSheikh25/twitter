@@ -42,3 +42,11 @@
         display: none;
     }
 }
+.bg:hover{
+    background-color: rgb(109, 132, 150);
+}
+.postIcon{
+    font-size: 10px; 
+    display: inline-flex; 
+    align-items: center;
+}
